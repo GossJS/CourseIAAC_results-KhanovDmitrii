@@ -9,16 +9,12 @@ CourseIAAC_results
 Автоматное:
 <br>
 - https://docs.google.com/presentation/d/1HsQ6x7BgrjLoA1pr8huBTvFdwhmoPXMZpR-WoDGos3w/edit?usp=sharing 
-
 <br>
 - https://moodle.herzen.spb.ru/mod/forum/discuss.php?d=6307#p11393
-
 <br>
 Перевод числа:
-
 <br>
 - https://docs.google.com/presentation/d/1Osenj-hCSYJC3Ik1Qcc5Pwn-zPCYMGQmVWOrG0Mw41A/edit?usp=sharing
-
 <br>
 - https://moodle.herzen.spb.ru/mod/forum/discuss.php?d=6138
 
